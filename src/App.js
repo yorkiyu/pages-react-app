@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Cloudflare Pages, Learn React
         </a>
       </header>
     </div>
